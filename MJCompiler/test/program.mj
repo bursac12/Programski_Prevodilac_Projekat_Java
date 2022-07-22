@@ -1,0 +1,25 @@
+program MJProgram
+	int x; int y;
+{
+	
+	int k () int c; {
+		c = 1;
+		return c+2;
+	}
+	
+	void main() int i;{
+		y = 2;
+		x = y + 2;
+		
+		print(y);
+		
+		
+		for(i=200; i<5; i++){
+print(i);
+print(ord('A'));
+
+
+}
+	
+	}
+}
